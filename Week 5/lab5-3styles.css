@@ -1,0 +1,28 @@
+body {
+    display: block;
+    font-family: Arial, Verdana, Garamond;
+    font-size: 11pt;
+    text-align: center;
+    margin-left: 20pt;
+    margin-right: 20pt;
+    font-size: 11pt
+}
+h1, a {
+    color: red;
+}
+a {
+    text-decoration: none;
+}
+img {
+    position: static;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0px
+}
+span {
+    color: black;
+}
+#red {
+    color: red;
+    font-weight: bold;
+}

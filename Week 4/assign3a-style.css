@@ -1,0 +1,32 @@
+th, td{ 
+	border-style: solid; 
+	border-width: 3px; 
+	border-color: red; 
+	padding: 1%;
+}
+table {
+	margin-left: 15%;
+	margin-right: 15%;
+	width: 70%;
+	box-shadow:10px 10px 10px green, 10px -10px 10px red, -10px -10px 10px blue, -10px 10px 10px yellow; 
+	background-color: #b3ffff;
+}
+.table-left {
+	text-align: left;
+}
+.table-right {
+	text-align: right;
+}
+.bolder {
+	font-weight: bold;
+	color: green;
+	text-align: center;
+	font-size: large;
+}
+.pics {
+	text-align: center;
+}
+.bigger {
+	font-size: xx-large;
+	color: green;
+}

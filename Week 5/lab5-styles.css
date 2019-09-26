@@ -1,0 +1,17 @@
+body {
+    display: block;
+    font-family: Arial, Verdana, Garamond;
+    font-size: 11pt;
+    text-align: center;
+}
+p {
+    margin-left: 20pt;
+    margin-right: 20pt;
+    font-size: 11pt
+}
+img {
+    position: static;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0px
+}

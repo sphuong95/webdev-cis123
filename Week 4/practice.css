@@ -1,0 +1,30 @@
+h1 {color: green;}
+th, td{ 
+	border-style: solid; 
+	border-width: 3px; 
+	border-color: red; 
+	padding: 1%;
+	float: middle;
+	}
+table {
+	margin-left: 15%;
+	margin-right: 15%;
+	width: 80%;
+	box-shadow:10px 10px 10px green, 10px -10px 10px red, -10px -10px 10px blue, -10px 10px 10px yellow; 
+
+}
+.table-left {
+	text-align: left;
+}
+.table-right {
+	text-align: right;
+}
+.bolder {
+	font-weight: bold;
+	color: green;
+	text-align: center;
+	font-size: large;
+}
+.pics {
+	text-align: center;
+}
